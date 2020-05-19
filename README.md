@@ -12,6 +12,15 @@ Ideas
 
 # User Stories
 
-|Story|Stage|Notes|
-|----|----|----|
+As a user I would like to be able to save recipes to a common database.
+As a user I want to be able to login into the system on a web browser.
+
+Current story: As a user I want to be able to login into the system on a web browser.
+
+
+|Tasks|
+|----|
+|Make the store|
+|    |
+
 
